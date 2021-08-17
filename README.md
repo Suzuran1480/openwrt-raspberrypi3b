@@ -1,5 +1,7 @@
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
+[![Build OpenWrt](https://github.com/Suzuran1480/openwrt-raspberrypi3b/actions/workflows/build-openwrt.yml/badge.svg)](https://github.com/Suzuran1480/openwrt-raspberrypi3b/actions/workflows/build-openwrt.yml)
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
